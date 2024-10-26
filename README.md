@@ -1,3 +1,7 @@
+***This code has the webui.bat file edited to work on a windows AMD radeon driver instead of needing to use NVIDIA GPU's***
+
+
+
 # Stable Diffusion web UI
 A web interface for Stable Diffusion, implemented using Gradio library.
 
